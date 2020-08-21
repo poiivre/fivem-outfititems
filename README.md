@@ -24,7 +24,7 @@ Il y'a un magasin, les coordonée sont modifiable et vous pouvez le desactivé
 | outfit_racing_orange      | Racing Orange Suit      | Tenue Course Orange       |
 | outfit_racing_purple      | Racing Purple Suit      | Tenue Course Violette     |
 |                           |                         |                           |
-| outfit_diving_pink        | Diving Pink Suit        | Tenue Plongée Rose        | 243-94 251-97
+| outfit_diving_pink        | Diving Pink Suit        | Tenue Plongée Rose        |
 | outfit_diving_red         | Diving Red Suit         | Tenue Plongée Rouge       | 
 | outfit_diving_white       | Diving White Suit       | Tenue Plongée Blanche     | 
 | outfit_diving_black       | Diving Black Suit       | Tenue Plongée Noire       |
@@ -49,7 +49,7 @@ Il y'a un magasin, les coordonée sont modifiable et vous pouvez le desactivé
 | outfit_stiptease_1        | Striptease Suit #6      | Tenue de Strip #6         |
 | outfit_stiptease_1        | Striptease Suit #7      | Tenue de Strip #7         |
 |                           |                         |                           | 
-| outfit_tux_black          | Tuxedo Black            | Smoking Noir              | 69-59-24  64-52-37
+| outfit_tux_black          | Tuxedo Black            | Smoking Noir              |
 | outfit_tux_white          | Tuxedo White            | Smoking Blanc             |
 | outfit_tux_blue           | Tuxedo Blue             | Smoking Blue              |
 | outfit_tux_sand           | Tuxedo Sand             | Smoking Sable             |
@@ -57,11 +57,11 @@ Il y'a un magasin, les coordonée sont modifiable et vous pouvez le desactivé
 |                           |                         |                           | 
 |                           |                         |                           |
 | outfit_jail               | Prisonner Suit          | Tenue Prisonnier          |
-| outfit_farmer             | Farmer Outfit           | Tenue Fermier             | 23-92 
+| outfit_farmer             | Farmer Outfit           | Tenue Fermier             | 
 
 
 | outfit_neon_christmas     | Christmas Neon Suit     | Tenue Neon Noel           |
-| outfit_neon_cyan          | Cyan Neon Suit          | Tenue Neon Cyan           | 274-106-58 
+| outfit_neon_cyan          | Cyan Neon Suit          | Tenue Neon Cyan           | 
 | outfit_neon_red           | Rouge Neon Suit         | Tenue Neon Rouge          | 
 | outfit_neon_purple        | Purple Neon Suit        | Tenue Neon Cyan           | 
 | outfit_neon_blue          | Blue Neon Suit          | Tenue Neon Bleue          | 
@@ -73,5 +73,7 @@ Il y'a un magasin, les coordonée sont modifiable et vous pouvez le desactivé
 | outfit_galaxy_yellow      | Yellow Galaxy Suit      | Tenue Galaxie Jaune       |
 
 
-
-
+Tenue Plongée Rose        | 243-94 251-97
+Smoking Noir              | 69-59-24  64-52-37
+Tenue Fermier             | 23-92
+Tenue Neon Cyan           | 274-106-58
