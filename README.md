@@ -68,7 +68,3 @@ MagCoord    :   Coordonnées du Magasin  | Shop Coordinates
 | outfit_farmer             | Farmer Outfit           | Tenue Fermier             | 
 
 
-Tenue Plongée Rose        | 243-94 251-97
-Smoking Noir              | 69-59-24  64-52-37
-Tenue Fermier             | 23-92
-Tenue Neon Cyan           | 274-106-58
