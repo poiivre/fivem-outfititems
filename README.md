@@ -24,12 +24,11 @@ MagCoord    :   Coordonnées du Magasin  | Shop Coordinates
 | ------------------------- | ----------------------- | ------------------------- |
 | outfit_racing_pink        | Racing Pink Suit        | Tenue Course Rose         |
 | outfit_racing_red         | Racing Red Suit         | Tenue Course Rouge        |
-| outfit_racing_grey        | Racing Grey Suit        | Tenue Course Grise        |
 | outfit_racing_black       | Racing Black Suit       | Tenue Course Noire        |
 | outfit_racing_green       | Racing Green Suit       | Tenue Course Verte        |
 | outfit_racing_white       | Racing White Suit       | Tenue Course Blanche      |
-| outfit_racing_orange      | Racing Orange Suit      | Tenue Course Orange       |
-| outfit_racing_purple      | Racing Purple Suit      | Tenue Course Violette     |
+| outfit_racing_cyan        | Racing Cyan Suit        | Tenue Course Cyan         |
+| outfit_racing_blue        | Racing Blue Suit        | Tenue Course Bleue        |
 | ------------------------- | ----------------------- | ------------------------- |
 | outfit_diving_pink        | Diving Pink Suit        | Tenue Plongée Rose        |
 | outfit_diving_red         | Diving Red Suit         | Tenue Plongée Rouge       | 
@@ -48,18 +47,10 @@ MagCoord    :   Coordonnées du Magasin  | Shop Coordinates
 | outfit_sky_orange         | Skydiving Orange Suit   | Tenue Parachute Orange    | 
 | outfit_sky_purple         | Skydiving Purple Suit   | Tenue Parachute Violette  | 
 | ------------------------- | ----------------------- | ------------------------- |
-| outfit_stiptease_1        | Striptease Suit #1      | Tenue de Strip #1         |
-| outfit_stiptease_2        | Striptease Suit #2      | Tenue de Strip #2         |
-| outfit_stiptease_3        | Striptease Suit #3      | Tenue de Strip #3         |
-| outfit_stiptease_4        | Striptease Suit #4      | Tenue de Strip #4         |
-| outfit_stiptease_5        | Striptease Suit #5      | Tenue de Strip #5         |
-| outfit_stiptease_6        | Striptease Suit #6      | Tenue de Strip #6         |
-| outfit_stiptease_7        | Striptease Suit #7      | Tenue de Strip #7         |
-| ------------------------- | ----------------------- | ------------------------- |
 | outfit_tux_black          | Tuxedo Black            | Smoking Noir              |
-| outfit_tux_white          | Tuxedo White            | Smoking Blanc             |
+| outfit_tux_green          | Tuxedo Green            | Smoking Vert              |
 | outfit_tux_blue           | Tuxedo Blue             | Smoking Blue              |
-| outfit_tux_sand           | Tuxedo Sand             | Smoking Sable             |
+| outfit_tux_red            | Tuxedo Red              | Smoking Rouge             |
 | ------------------------- | ----------------------- | ------------------------- |
 | outfit_neon_christmas     | Christmas Neon Suit     | Tenue Neon Noel           |
 | outfit_neon_cyan          | Cyan Neon Suit          | Tenue Neon Cyan           | 
