@@ -42,12 +42,12 @@ Il y'a un magasin, les coordonée sont modifiable et vous pouvez le desactivé
 | outfit_sky_purple         | Skydiving Purple Suit   | Tenue Parachute Violette  | 
 | ------------------------- | ----------------------- | ------------------------- |
 | outfit_stiptease_1        | Striptease Suit #1      | Tenue de Strip #1         |
-| outfit_stiptease_1        | Striptease Suit #2      | Tenue de Strip #2         |
-| outfit_stiptease_1        | Striptease Suit #3      | Tenue de Strip #3         |
-| outfit_stiptease_1        | Striptease Suit #4      | Tenue de Strip #4         |
-| outfit_stiptease_1        | Striptease Suit #5      | Tenue de Strip #5         |
-| outfit_stiptease_1        | Striptease Suit #6      | Tenue de Strip #6         |
-| outfit_stiptease_1        | Striptease Suit #7      | Tenue de Strip #7         |
+| outfit_stiptease_2        | Striptease Suit #2      | Tenue de Strip #2         |
+| outfit_stiptease_3        | Striptease Suit #3      | Tenue de Strip #3         |
+| outfit_stiptease_4        | Striptease Suit #4      | Tenue de Strip #4         |
+| outfit_stiptease_5        | Striptease Suit #5      | Tenue de Strip #5         |
+| outfit_stiptease_6        | Striptease Suit #6      | Tenue de Strip #6         |
+| outfit_stiptease_7        | Striptease Suit #7      | Tenue de Strip #7         |
 | ------------------------- | ----------------------- | ------------------------- |
 | outfit_tux_black          | Tuxedo Black            | Smoking Noir              |
 | outfit_tux_white          | Tuxedo White            | Smoking Blanc             |
