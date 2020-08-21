@@ -1,10 +1,10 @@
-# seln_itemoutfit
+# [EN]  [FR] seln_Outfit_Items
 [FiveM] Outfit Item | Item Tenue 
 
 There is a shop, coordinate customisable and you can turn it off
 Il y'a un magasin, les coordonée sont modifiable et vous pouvez le desactivé
 
-| Item                      | EN                      | FR                        |
+| Item                      | English                 | Francais                  |
 | ------------------------- | ----------------------- | ------------------------- |
 | outfit_hazmat_blue        | Blue Hazmat Suit        | Tenue Hazmat Bleue        |
 | outfit_hazmat_yellow      | Yellow Hazmat Suit      | Tenue Hazmat Jaune        |   
@@ -57,10 +57,10 @@ Il y'a un magasin, les coordonée sont modifiable et vous pouvez le desactivé
 | outfit_neon_christmas     | Christmas Neon Suit     | Tenue Neon Noel           |
 | outfit_neon_cyan          | Cyan Neon Suit          | Tenue Neon Cyan           | 
 | outfit_neon_red           | Rouge Neon Suit         | Tenue Neon Rouge          | 
-| outfit_neon_purple        | Purple Neon Suit        | Tenue Neon Cyan           | 
+| outfit_neon_purple        | Purple Neon Suit        | Tenue Neon Violette       | 
 | outfit_neon_blue          | Blue Neon Suit          | Tenue Neon Bleue          | 
 | outfit_flashy_green       | Green Flashy Suit       | Tenue Flashie Verte       |
-| outfit_flashy_purple      | Purple Flashy Suit      | Tenue Flashie Violet      |
+| outfit_flashy_purple      | Purple Flashy Suit      | Tenue Flashie Violette    |
 | outfit_galaxy_blue        | Blue Galaxy Suit        | Tenue Galaxie Bleue       |
 | outfit_galaxy_pink        | Pink Galaxy Suit        | Tenue Galaxie Rose        |
 | outfit_galaxy_orange      | Orange Galaxy Suit      | Tenue Galaxie Orange      |
