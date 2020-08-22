@@ -4,13 +4,6 @@
 ######Add 50+ Outfits Items ( Change Player skin on item use )
 ######Ajoute 50+ Items Tenues ( Change le skin du Joueur quand utilise l'item )
 
-There is a shop, coordinate customisable and you can turn it off
-Il y'a un magasin, les coordonée sont modifiable et vous pouvez le desactivé
-```
-ActiveMag   :   Active le Magasin       | Activate the Shop
-MagCoord    :   Coordonnées du Magasin  | Shop Coordinates    
-```
-
 | Item                      | English                 | Francais                  |
 | ------------------------- | ----------------------- | ------------------------- |
 | outfit_hazmat_blue        | Blue Hazmat Suit        | Tenue Hazmat Bleue        |
