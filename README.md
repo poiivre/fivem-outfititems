@@ -1,8 +1,8 @@
 # [EN]  [FR] seln_Outfit_Items
 [FiveM] Outfit Item | Item Tenue 
 
-###### Add 50+ Outfits Items ( Change Player skin on item use )
-###### Ajoute 50+ Items Tenues ( Change le skin du Joueur quand utilise l'item )
+###### Add 45+ Outfits Items ( Change Player skin on item use )
+###### Ajoute 45+ Items Tenues ( Change le skin du Joueur quand utilise l'item )
 
 | Item                      | English                 | Francais                  |
 | ------------------------- | ----------------------- | ------------------------- |
