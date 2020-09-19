@@ -1,3 +1,4 @@
+Discord Dev Scripts : https://discord.gg/5EDP4KH
 # [EN]  [FR] seln_Outfit_Items
 [FiveM] Outfit Item | Item Tenue 
 
