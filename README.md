@@ -1,4 +1,5 @@
-Discord Dev Scripts : https://discord.gg/5EDP4KH
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D44EGNM)
+
 # [EN]  [FR] seln_Outfit_Items
 [FiveM] Outfit Item | Item Tenue 
 
